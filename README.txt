@@ -9,3 +9,4 @@ They could either be
   
 3) Graphing Volatility change over time with varying Averages.
 
+4) Gap Finder
